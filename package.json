@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "firebase-tools": "^8.1.1",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "repository": "git@github.com:samarpanda/lh-bot-demo.git",
   "author": "Samar Panda <er.samarpanda@gmail.com>",
